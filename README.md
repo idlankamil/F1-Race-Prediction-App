@@ -1,4 +1,5 @@
 🏎️ Smart F1 Companion
+
 An interactive race prediction and fan hub application featuring real-time race simulations, AI predictions, and a live community pulse, built with React Native and Expo. The app brings Formula 1 data to life with smooth theme transitions and dynamic UI layouts designed for motorsport enthusiasts.
 
 ✨ Technologies
