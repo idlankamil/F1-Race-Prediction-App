@@ -1,0 +1,420 @@
+TeamName,TeamId,FullName,CountryCode,Position,ClassifiedPosition,GridPosition,Status,Points,Laps,RoundNumber,EventName
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,1,Finished,26,57,1,Bahrain Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,2,2,5,Finished,18,57,1,Bahrain Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,3,3,4,Finished,15,57,1,Bahrain Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,4,4,2,Finished,12,57,1,Bahrain Grand Prix
+Mercedes,mercedes,George Russell,GBR,5,5,3,Finished,10,57,1,Bahrain Grand Prix
+McLaren,mclaren,Lando Norris,GBR,6,6,7,Finished,8,57,1,Bahrain Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,7,7,9,Finished,6,57,1,Bahrain Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,8,8,8,Finished,4,57,1,Bahrain Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,9,9,6,Finished,2,57,1,Bahrain Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,10,10,12,Finished,1,57,1,Bahrain Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,11,11,17,Lapped,0,56,1,Bahrain Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,12,12,15,Lapped,0,56,1,Bahrain Grand Prix
+RB,rb,Daniel Ricciardo,AUS,13,13,14,Lapped,0,56,1,Bahrain Grand Prix
+RB,rb,Yuki Tsunoda,JPN,14,14,11,Lapped,0,56,1,Bahrain Grand Prix
+Williams,williams,Alexander Albon,THA,15,15,13,Lapped,0,56,1,Bahrain Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,16,16,10,Lapped,0,56,1,Bahrain Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,17,17,19,Lapped,0,56,1,Bahrain Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,18,18,20,Lapped,0,56,1,Bahrain Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,19,19,16,Lapped,0,56,1,Bahrain Grand Prix
+Williams,williams,Logan Sargeant,USA,20,20,18,Lapped,0,55,1,Bahrain Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,1,Finished,25,50,2,Saudi Arabian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,2,2,3,Finished,18,50,2,Saudi Arabian Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,3,3,2,Finished,16,50,2,Saudi Arabian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,4,4,5,Finished,12,50,2,Saudi Arabian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,5,5,4,Finished,10,50,2,Saudi Arabian Grand Prix
+Mercedes,mercedes,George Russell,GBR,6,6,7,Finished,8,50,2,Saudi Arabian Grand Prix
+Ferrari,ferrari,Oliver Bearman,GBR,7,7,11,Finished,6,50,2,Saudi Arabian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,8,8,6,Finished,4,50,2,Saudi Arabian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,9,9,8,Finished,2,50,2,Saudi Arabian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,10,10,15,Finished,1,50,2,Saudi Arabian Grand Prix
+Williams,williams,Alexander Albon,THA,11,11,12,Finished,0,50,2,Saudi Arabian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,12,12,13,Finished,0,50,2,Saudi Arabian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,13,13,17,Lapped,0,49,2,Saudi Arabian Grand Prix
+Williams,williams,Logan Sargeant,USA,14,14,19,Lapped,0,49,2,Saudi Arabian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,15,15,9,Lapped,0,49,2,Saudi Arabian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,16,16,14,Lapped,0,49,2,Saudi Arabian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,17,17,16,Lapped,0,49,2,Saudi Arabian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,18,18,20,Lapped,0,49,2,Saudi Arabian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,19,R,10,Retired,0,5,2,Saudi Arabian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,20,R,18,Retired,0,1,2,Saudi Arabian Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,1,1,2,Finished,25,58,3,Australian Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,2,2,4,Finished,19,58,3,Australian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,3,3,3,Finished,15,58,3,Australian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,4,4,5,Finished,12,58,3,Australian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,5,5,6,Finished,10,58,3,Australian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,6,6,9,Finished,8,58,3,Australian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,7,7,8,Finished,6,58,3,Australian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,8,8,10,Finished,4,58,3,Australian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,9,9,16,Finished,2,58,3,Australian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,10,10,14,Lapped,1,57,3,Australian Grand Prix
+Williams,williams,Alexander Albon,THA,11,11,12,Lapped,0,57,3,Australian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,12,12,18,Lapped,0,57,3,Australian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,13,13,17,Lapped,0,57,3,Australian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,14,14,13,Lapped,0,57,3,Australian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,15,15,19,Lapped,0,57,3,Australian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,16,16,15,Lapped,0,57,3,Australian Grand Prix
+Mercedes,mercedes,George Russell,GBR,17,17,7,Retired,0,56,3,Australian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,18,R,11,Retired,0,15,3,Australian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,19,R,1,Retired,0,3,3,Australian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,1,Finished,26,53,4,Japanese Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,2,2,2,Finished,18,53,4,Japanese Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,3,3,4,Finished,15,53,4,Japanese Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,4,4,8,Finished,12,53,4,Japanese Grand Prix
+McLaren,mclaren,Lando Norris,GBR,5,5,3,Finished,10,53,4,Japanese Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,6,6,5,Finished,8,53,4,Japanese Grand Prix
+Mercedes,mercedes,George Russell,GBR,7,7,9,Finished,6,53,4,Japanese Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,8,8,6,Finished,4,53,4,Japanese Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,9,9,7,Finished,2,53,4,Japanese Grand Prix
+RB,rb,Yuki Tsunoda,JPN,10,10,10,Lapped,1,52,4,Japanese Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,12,Lapped,0,52,4,Japanese Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,12,12,16,Lapped,0,52,4,Japanese Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,13,13,18,Lapped,0,52,4,Japanese Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,14,14,13,Lapped,0,52,4,Japanese Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,15,15,15,Lapped,0,52,4,Japanese Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,16,16,17,Lapped,0,52,4,Japanese Grand Prix
+Williams,williams,Logan Sargeant,USA,17,17,19,Lapped,0,52,4,Japanese Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,18,R,20,Retired,0,12,4,Japanese Grand Prix
+RB,rb,Daniel Ricciardo,AUS,19,R,11,Retired,0,0,4,Japanese Grand Prix
+Williams,williams,Alexander Albon,THA,20,R,14,Retired,0,0,4,Japanese Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,1,Finished,25,56,5,Chinese Grand Prix
+McLaren,mclaren,Lando Norris,GBR,2,2,4,Finished,18,56,5,Chinese Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,3,3,2,Finished,15,56,5,Chinese Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,4,4,6,Finished,12,56,5,Chinese Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,5,5,7,Finished,10,56,5,Chinese Grand Prix
+Mercedes,mercedes,George Russell,GBR,6,6,8,Finished,8,56,5,Chinese Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,7,7,3,Finished,7,56,5,Chinese Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,8,8,5,Finished,4,56,5,Chinese Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,9,9,18,Finished,2,56,5,Chinese Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,10,10,9,Finished,1,56,5,Chinese Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,11,11,13,Finished,0,56,5,Chinese Grand Prix
+Williams,williams,Alexander Albon,THA,12,12,14,Finished,0,56,5,Chinese Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,13,13,15,Finished,0,56,5,Chinese Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,14,14,16,Finished,0,56,5,Chinese Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,15,15,11,Finished,0,56,5,Chinese Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,16,16,17,Finished,0,56,5,Chinese Grand Prix
+Williams,williams,Logan Sargeant,USA,17,17,20,Finished,0,56,5,Chinese Grand Prix
+RB,rb,Daniel Ricciardo,AUS,18,R,12,Retired,0,33,5,Chinese Grand Prix
+RB,rb,Yuki Tsunoda,JPN,19,R,19,Retired,0,26,5,Chinese Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,20,R,10,Retired,0,19,5,Chinese Grand Prix
+McLaren,mclaren,Lando Norris,GBR,1,1,5,Finished,25,57,6,Miami Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,2,2,1,Finished,18,57,6,Miami Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,3,3,2,Finished,15,57,6,Miami Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,4,4,4,Finished,12,57,6,Miami Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,5,5,3,Finished,10,57,6,Miami Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,6,6,8,Finished,8,57,6,Miami Grand Prix
+RB,rb,Yuki Tsunoda,JPN,7,7,10,Finished,6,57,6,Miami Grand Prix
+Mercedes,mercedes,George Russell,GBR,8,8,7,Finished,4,57,6,Miami Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,9,9,15,Finished,2,57,6,Miami Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,10,10,13,Finished,1,57,6,Miami Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,9,Finished,0,57,6,Miami Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,12,12,12,Finished,0,57,6,Miami Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,13,13,6,Finished,0,57,6,Miami Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,14,14,19,Finished,0,57,6,Miami Grand Prix
+RB,rb,Daniel Ricciardo,AUS,15,15,20,Finished,0,57,6,Miami Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,16,Finished,0,57,6,Miami Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,17,17,11,Finished,0,57,6,Miami Grand Prix
+Williams,williams,Alexander Albon,THA,18,18,14,Finished,0,57,6,Miami Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,19,19,18,Finished,0,57,6,Miami Grand Prix
+Williams,williams,Logan Sargeant,USA,20,R,17,Retired,0,27,6,Miami Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,1,Finished,25,63,7,Emilia Romagna Grand Prix
+McLaren,mclaren,Lando Norris,GBR,2,2,2,Finished,18,63,7,Emilia Romagna Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,3,3,3,Finished,15,63,7,Emilia Romagna Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,4,4,5,Finished,12,63,7,Emilia Romagna Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,5,5,4,Finished,10,63,7,Emilia Romagna Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,6,6,8,Finished,8,63,7,Emilia Romagna Grand Prix
+Mercedes,mercedes,George Russell,GBR,7,7,6,Finished,7,63,7,Emilia Romagna Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,8,8,11,Finished,4,63,7,Emilia Romagna Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,9,9,13,Finished,2,63,7,Emilia Romagna Grand Prix
+RB,rb,Yuki Tsunoda,JPN,10,10,7,Lapped,1,62,7,Emilia Romagna Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,10,Lapped,0,62,7,Emilia Romagna Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,12,12,18,Lapped,0,62,7,Emilia Romagna Grand Prix
+RB,rb,Daniel Ricciardo,AUS,13,13,9,Lapped,0,62,7,Emilia Romagna Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,14,14,12,Lapped,0,62,7,Emilia Romagna Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,15,15,17,Lapped,0,62,7,Emilia Romagna Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,16,16,15,Lapped,0,62,7,Emilia Romagna Grand Prix
+Williams,williams,Logan Sargeant,USA,17,17,19,Lapped,0,62,7,Emilia Romagna Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,18,18,16,Lapped,0,62,7,Emilia Romagna Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,19,19,20,Lapped,0,62,7,Emilia Romagna Grand Prix
+Williams,williams,Alexander Albon,THA,20,R,14,Retired,0,51,7,Emilia Romagna Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,1,1,1,Finished,25,78,8,Monaco Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,2,2,2,Finished,18,78,8,Monaco Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,3,3,3,Finished,15,78,8,Monaco Grand Prix
+McLaren,mclaren,Lando Norris,GBR,4,4,4,Finished,12,78,8,Monaco Grand Prix
+Mercedes,mercedes,George Russell,GBR,5,5,5,Finished,10,78,8,Monaco Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,6,6,6,Finished,8,78,8,Monaco Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,7,7,7,Finished,7,78,8,Monaco Grand Prix
+RB,rb,Yuki Tsunoda,JPN,8,8,8,Lapped,4,77,8,Monaco Grand Prix
+Williams,williams,Alexander Albon,THA,9,9,9,Lapped,2,77,8,Monaco Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,10,10,10,Lapped,1,77,8,Monaco Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,11,11,14,Lapped,0,76,8,Monaco Grand Prix
+RB,rb,Daniel Ricciardo,AUS,12,12,12,Lapped,0,76,8,Monaco Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,13,13,17,Lapped,0,76,8,Monaco Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,14,14,13,Lapped,0,76,8,Monaco Grand Prix
+Williams,williams,Logan Sargeant,USA,15,15,15,Lapped,0,76,8,Monaco Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,16,16,18,Lapped,0,76,8,Monaco Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,17,R,11,Retired,0,0,8,Monaco Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,18,R,16,Retired,0,0,8,Monaco Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,19,R,19,Retired,0,0,8,Monaco Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,20,R,20,Retired,0,0,8,Monaco Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,2,Finished,25,70,9,Canadian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,2,2,3,Finished,18,70,9,Canadian Grand Prix
+Mercedes,mercedes,George Russell,GBR,3,3,1,Finished,15,70,9,Canadian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,4,4,7,Finished,13,70,9,Canadian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,5,5,4,Finished,10,70,9,Canadian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,6,6,6,Finished,8,70,9,Canadian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,7,7,9,Finished,6,70,9,Canadian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,8,8,5,Finished,4,70,9,Canadian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,9,9,15,Finished,2,70,9,Canadian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,10,10,18,Finished,1,70,9,Canadian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,17,Finished,0,70,9,Canadian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,12,12,14,Finished,0,70,9,Canadian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,13,13,19,Finished,0,70,9,Canadian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,14,14,8,Finished,0,70,9,Canadian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,15,15,20,Lapped,0,69,9,Canadian Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,16,R,12,Retired,0,52,9,Canadian Grand Prix
+Williams,williams,Alexander Albon,THA,17,R,10,Retired,0,52,9,Canadian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,18,R,16,Retired,0,51,9,Canadian Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,19,R,11,Retired,0,40,9,Canadian Grand Prix
+Williams,williams,Logan Sargeant,USA,20,R,13,Retired,0,23,9,Canadian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,2,Finished,25,66,10,Spanish Grand Prix
+McLaren,mclaren,Lando Norris,GBR,2,2,1,Finished,19,66,10,Spanish Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,3,3,3,Finished,15,66,10,Spanish Grand Prix
+Mercedes,mercedes,George Russell,GBR,4,4,4,Finished,12,66,10,Spanish Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,5,5,5,Finished,10,66,10,Spanish Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,6,6,6,Finished,8,66,10,Spanish Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,7,7,9,Finished,6,66,10,Spanish Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,8,8,11,Finished,4,66,10,Spanish Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,9,9,7,Finished,2,66,10,Spanish Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,10,10,8,Finished,1,66,10,Spanish Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,13,Finished,0,66,10,Spanish Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,12,12,10,Lapped,0,65,10,Spanish Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,13,13,15,Lapped,0,65,10,Spanish Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,14,14,14,Lapped,0,65,10,Spanish Grand Prix
+RB,rb,Daniel Ricciardo,AUS,15,15,18,Lapped,0,65,10,Spanish Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,12,Lapped,0,65,10,Spanish Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,17,17,16,Lapped,0,65,10,Spanish Grand Prix
+Williams,williams,Alexander Albon,THA,18,18,20,Lapped,0,65,10,Spanish Grand Prix
+RB,rb,Yuki Tsunoda,JPN,19,19,17,Lapped,0,65,10,Spanish Grand Prix
+Williams,williams,Logan Sargeant,USA,20,20,19,Lapped,0,64,10,Spanish Grand Prix
+Mercedes,mercedes,George Russell,GBR,1,1,3,Finished,25,71,11,Austrian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,2,2,7,Finished,18,71,11,Austrian Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,3,3,4,Finished,15,71,11,Austrian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,4,4,5,Finished,12,71,11,Austrian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,5,5,1,Finished,10,71,11,Austrian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,6,6,9,Finished,8,71,11,Austrian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,7,7,8,Finished,6,71,11,Austrian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,8,8,12,Finished,4,71,11,Austrian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,9,9,11,Finished,2,71,11,Austrian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,10,10,13,Finished,1,71,11,Austrian Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,11,11,6,Finished,0,71,11,Austrian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,12,12,10,Finished,0,71,11,Austrian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,13,13,17,Lapped,0,70,11,Austrian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,14,14,14,Lapped,0,70,11,Austrian Grand Prix
+Williams,williams,Alexander Albon,THA,15,15,16,Lapped,0,70,11,Austrian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,18,Lapped,0,70,11,Austrian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,17,17,20,Lapped,0,70,11,Austrian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,18,18,15,Lapped,0,70,11,Austrian Grand Prix
+Williams,williams,Logan Sargeant,USA,19,19,19,Lapped,0,69,11,Austrian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,20,20,2,Lapped,0,64,11,Austrian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,1,1,2,Finished,25,52,12,British Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,2,2,4,Finished,18,52,12,British Grand Prix
+McLaren,mclaren,Lando Norris,GBR,3,3,3,Finished,15,52,12,British Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,4,4,5,Finished,12,52,12,British Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,5,5,7,Finished,11,52,12,British Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,6,6,6,Finished,8,52,12,British Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,7,7,8,Finished,6,52,12,British Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,8,8,10,Finished,4,52,12,British Grand Prix
+Williams,williams,Alexander Albon,THA,9,9,9,Finished,2,52,12,British Grand Prix
+RB,rb,Yuki Tsunoda,JPN,10,10,13,Finished,1,52,12,British Grand Prix
+Williams,williams,Logan Sargeant,USA,11,11,12,Finished,0,52,12,British Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,12,12,17,Finished,0,52,12,British Grand Prix
+RB,rb,Daniel Ricciardo,AUS,13,13,15,Lapped,0,51,12,British Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,14,14,11,Lapped,0,51,12,British Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,15,15,16,Lapped,0,51,12,British Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,16,16,18,Lapped,0,50,12,British Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,17,17,20,Lapped,0,50,12,British Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,18,18,14,Lapped,0,50,12,British Grand Prix
+Mercedes,mercedes,George Russell,GBR,19,R,1,Retired,0,33,12,British Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,20,W,19,Did not start,0,0,12,British Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,1,1,2,Finished,25,70,13,Hungarian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,2,2,1,Finished,18,70,13,Hungarian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,3,3,5,Finished,15,70,13,Hungarian Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,4,4,6,Finished,12,70,13,Hungarian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,5,5,3,Finished,10,70,13,Hungarian Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,6,6,4,Finished,8,70,13,Hungarian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,7,7,16,Finished,6,70,13,Hungarian Grand Prix
+Mercedes,mercedes,George Russell,GBR,8,8,17,Finished,5,70,13,Hungarian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,9,9,10,Finished,2,70,13,Hungarian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,10,10,8,Finished,1,70,13,Hungarian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,11,11,7,Finished,0,70,13,Hungarian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,12,12,9,Lapped,0,69,13,Hungarian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,13,13,11,Lapped,0,69,13,Hungarian Grand Prix
+Williams,williams,Alexander Albon,THA,14,14,13,Lapped,0,69,13,Hungarian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,15,15,15,Lapped,0,69,13,Hungarian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,12,Lapped,0,69,13,Hungarian Grand Prix
+Williams,williams,Logan Sargeant,USA,17,17,14,Lapped,0,69,13,Hungarian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,18,18,19,Lapped,0,69,13,Hungarian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,19,19,18,Lapped,0,69,13,Hungarian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,20,R,20,Retired,0,33,13,Hungarian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,1,1,3,Finished,25,44,14,Belgian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,2,2,5,Finished,18,44,14,Belgian Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,3,3,1,Finished,15,44,14,Belgian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,4,4,11,Finished,12,44,14,Belgian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,5,5,4,Finished,10,44,14,Belgian Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,6,6,7,Finished,8,44,14,Belgian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,7,7,2,Finished,7,44,14,Belgian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,8,8,8,Finished,4,44,14,Belgian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,9,9,9,Finished,2,44,14,Belgian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,10,10,13,Finished,1,44,14,Belgian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,11,11,15,Finished,0,44,14,Belgian Grand Prix
+Williams,williams,Alexander Albon,THA,12,12,10,Finished,0,44,14,Belgian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,13,13,12,Finished,0,44,14,Belgian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,14,14,17,Finished,0,44,14,Belgian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,15,15,14,Finished,0,44,14,Belgian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,16,16,20,Finished,0,44,14,Belgian Grand Prix
+Williams,williams,Logan Sargeant,USA,17,17,18,Finished,0,44,14,Belgian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,18,18,16,Finished,0,44,14,Belgian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,19,R,19,Retired,0,5,14,Belgian Grand Prix
+Mercedes,mercedes,George Russell,GBR,20,20,6,Disqualified,0,44,14,Belgian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,1,1,1,Finished,26,72,15,Dutch Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,2,2,2,Finished,18,72,15,Dutch Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,3,3,6,Finished,15,72,15,Dutch Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,4,4,3,Finished,12,72,15,Dutch Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,5,5,10,Finished,10,72,15,Dutch Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,6,6,5,Finished,8,72,15,Dutch Grand Prix
+Mercedes,mercedes,George Russell,GBR,7,7,4,Finished,6,72,15,Dutch Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,8,8,14,Finished,4,72,15,Dutch Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,9,9,9,Lapped,2,71,15,Dutch Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,10,10,7,Lapped,1,71,15,Dutch Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,12,Lapped,0,71,15,Dutch Grand Prix
+RB,rb,Daniel Ricciardo,AUS,12,12,13,Lapped,0,71,15,Dutch Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,13,13,8,Lapped,0,71,15,Dutch Grand Prix
+Williams,williams,Alexander Albon,THA,14,14,19,Lapped,0,71,15,Dutch Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,15,15,15,Lapped,0,71,15,Dutch Grand Prix
+Williams,williams,Logan Sargeant,USA,16,16,18,Lapped,0,71,15,Dutch Grand Prix
+RB,rb,Yuki Tsunoda,JPN,17,17,11,Lapped,0,71,15,Dutch Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,18,18,20,Lapped,0,71,15,Dutch Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,19,19,16,Lapped,0,70,15,Dutch Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,20,20,17,Lapped,0,70,15,Dutch Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,1,1,4,Finished,25,53,16,Italian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,2,2,2,Finished,18,53,16,Italian Grand Prix
+McLaren,mclaren,Lando Norris,GBR,3,3,1,Finished,16,53,16,Italian Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,4,4,5,Finished,12,53,16,Italian Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,5,5,6,Finished,10,53,16,Italian Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,6,6,7,Finished,8,53,16,Italian Grand Prix
+Mercedes,mercedes,George Russell,GBR,7,7,3,Finished,6,53,16,Italian Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,8,8,8,Finished,4,53,16,Italian Grand Prix
+Williams,williams,Alexander Albon,THA,9,9,9,Finished,2,53,16,Italian Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,10,10,13,Finished,1,53,16,Italian Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,11,11,11,Finished,0,53,16,Italian Grand Prix
+Williams,williams,Franco Colapinto,ARG,12,12,18,Finished,0,53,16,Italian Grand Prix
+RB,rb,Daniel Ricciardo,AUS,13,13,12,Finished,0,53,16,Italian Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,14,14,15,Lapped,0,52,16,Italian Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,15,15,14,Lapped,0,52,16,Italian Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,19,Lapped,0,52,16,Italian Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,17,17,10,Lapped,0,52,16,Italian Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,18,18,20,Lapped,0,52,16,Italian Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,19,19,17,Lapped,0,52,16,Italian Grand Prix
+RB,rb,Yuki Tsunoda,JPN,20,R,16,Retired,0,7,16,Italian Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,1,1,2,Finished,25,51,17,Azerbaijan Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,2,2,1,Finished,18,51,17,Azerbaijan Grand Prix
+Mercedes,mercedes,George Russell,GBR,3,3,5,Finished,15,51,17,Azerbaijan Grand Prix
+McLaren,mclaren,Lando Norris,GBR,4,4,15,Finished,13,51,17,Azerbaijan Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,5,5,6,Finished,10,51,17,Azerbaijan Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,6,6,7,Finished,8,51,17,Azerbaijan Grand Prix
+Williams,williams,Alexander Albon,THA,7,7,9,Finished,6,51,17,Azerbaijan Grand Prix
+Williams,williams,Franco Colapinto,ARG,8,8,8,Finished,4,51,17,Azerbaijan Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,9,9,19,Finished,2,51,17,Azerbaijan Grand Prix
+Haas F1 Team,haas,Oliver Bearman,GBR,10,10,10,Finished,1,51,17,Azerbaijan Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,11,11,12,Finished,0,51,17,Azerbaijan Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,12,12,18,Finished,0,51,17,Azerbaijan Grand Prix
+RB,rb,Daniel Ricciardo,AUS,13,13,14,Finished,0,51,17,Azerbaijan Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,14,14,17,Finished,0,51,17,Azerbaijan Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,15,15,20,Lapped,0,50,17,Azerbaijan Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,16,Lapped,0,50,17,Azerbaijan Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,17,17,4,Retired,0,49,17,Azerbaijan Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,18,18,3,Retired,0,49,17,Azerbaijan Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,19,19,13,Retired,0,45,17,Azerbaijan Grand Prix
+RB,rb,Yuki Tsunoda,JPN,20,R,11,Retired,0,14,17,Azerbaijan Grand Prix
+McLaren,mclaren,Lando Norris,GBR,1,1,1,Finished,25,62,18,Singapore Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,2,2,2,Finished,18,62,18,Singapore Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,3,3,5,Finished,15,62,18,Singapore Grand Prix
+Mercedes,mercedes,George Russell,GBR,4,4,4,Finished,12,62,18,Singapore Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,5,5,9,Finished,10,62,18,Singapore Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,6,6,3,Finished,8,62,18,Singapore Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,7,7,10,Finished,6,62,18,Singapore Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,8,8,7,Lapped,4,61,18,Singapore Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,9,9,6,Lapped,2,61,18,Singapore Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,10,10,13,Lapped,1,61,18,Singapore Grand Prix
+Williams,williams,Franco Colapinto,ARG,11,11,12,Lapped,0,61,18,Singapore Grand Prix
+RB,rb,Yuki Tsunoda,JPN,12,12,8,Lapped,0,61,18,Singapore Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,13,13,15,Lapped,0,61,18,Singapore Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,14,14,17,Lapped,0,61,18,Singapore Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,15,15,20,Lapped,0,61,18,Singapore Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,16,16,19,Lapped,0,61,18,Singapore Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,17,17,18,Lapped,0,61,18,Singapore Grand Prix
+RB,rb,Daniel Ricciardo,AUS,18,18,16,Lapped,0,61,18,Singapore Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,19,19,14,Retired,0,57,18,Singapore Grand Prix
+Williams,williams,Alexander Albon,THA,20,R,11,Retired,0,15,18,Singapore Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,1,1,4,Finished,25,56,19,United States Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,2,2,3,Finished,18,56,19,United States Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,3,3,2,Finished,15,56,19,United States Grand Prix
+McLaren,mclaren,Lando Norris,GBR,4,4,1,Finished,12,56,19,United States Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,5,5,5,Finished,10,56,19,United States Grand Prix
+Mercedes,mercedes,George Russell,GBR,6,6,20,Finished,8,56,19,United States Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,7,7,9,Finished,6,56,19,United States Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,8,8,11,Finished,4,56,19,United States Grand Prix
+RB,rb,Liam Lawson,NZL,9,9,19,Finished,2,56,19,United States Grand Prix
+Williams,williams,Franco Colapinto,ARG,10,10,15,Finished,1,56,19,United States Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,11,11,8,Finished,0,56,19,United States Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,12,12,6,Finished,0,56,19,United States Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,13,13,7,Lapped,0,55,19,United States Grand Prix
+RB,rb,Yuki Tsunoda,JPN,14,14,10,Lapped,0,55,19,United States Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,15,15,13,Lapped,0,55,19,United States Grand Prix
+Williams,williams,Alexander Albon,THA,16,16,14,Lapped,0,55,19,United States Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,17,17,16,Lapped,0,55,19,United States Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,18,18,12,Lapped,0,55,19,United States Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,19,19,18,Lapped,0,55,19,United States Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,20,R,17,Retired,0,1,19,United States Grand Prix
+Ferrari,ferrari,Carlos Sainz,ESP,1,1,1,Finished,25,71,20,Mexico City Grand Prix
+McLaren,mclaren,Lando Norris,GBR,2,2,3,Finished,18,71,20,Mexico City Grand Prix
+Ferrari,ferrari,Charles Leclerc,MON,3,3,4,Finished,16,71,20,Mexico City Grand Prix
+Mercedes,mercedes,Lewis Hamilton,GBR,4,4,6,Finished,12,71,20,Mexico City Grand Prix
+Mercedes,mercedes,George Russell,GBR,5,5,5,Finished,10,71,20,Mexico City Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,6,6,2,Finished,8,71,20,Mexico City Grand Prix
+Haas F1 Team,haas,Kevin Magnussen,DEN,7,7,7,Finished,6,71,20,Mexico City Grand Prix
+McLaren,mclaren,Oscar Piastri,AUS,8,8,17,Finished,4,71,20,Mexico City Grand Prix
+Haas F1 Team,haas,Nico Hulkenberg,GER,9,9,10,Lapped,2,70,20,Mexico City Grand Prix
+Alpine,alpine,Pierre Gasly,FRA,10,10,8,Lapped,1,70,20,Mexico City Grand Prix
+Aston Martin,aston_martin,Lance Stroll,CAN,11,11,14,Lapped,0,70,20,Mexico City Grand Prix
+Williams,williams,Franco Colapinto,ARG,12,12,16,Lapped,0,70,20,Mexico City Grand Prix
+Alpine,alpine,Esteban Ocon,FRA,13,13,0,Lapped,0,70,20,Mexico City Grand Prix
+Kick Sauber,sauber,Valtteri Bottas,FIN,14,14,15,Lapped,0,70,20,Mexico City Grand Prix
+Kick Sauber,sauber,Guanyu Zhou,CHN,15,15,19,Lapped,0,70,20,Mexico City Grand Prix
+RB,rb,Liam Lawson,NZL,16,16,12,Lapped,0,70,20,Mexico City Grand Prix
+Red Bull Racing,red_bull,Sergio Perez,MEX,17,17,18,Lapped,0,70,20,Mexico City Grand Prix
+Aston Martin,aston_martin,Fernando Alonso,ESP,18,R,13,Retired,0,15,20,Mexico City Grand Prix
+Williams,williams,Alexander Albon,THA,19,R,9,Retired,0,0,20,Mexico City Grand Prix
+RB,rb,Yuki Tsunoda,JPN,20,R,11,Retired,0,0,20,Mexico City Grand Prix
+Red Bull Racing,red_bull,Max Verstappen,NED,1,1,17,Finished,26,69,21,SÃ£o Paulo Grand Pr
+Alpine,alpine,Esteban Ocon,FRA,2,2,4,Finished,18,69,21,SÃ£o Paulo Grand Pr
+Alpine,alpine,Pierre Gasly,FRA,3,3,13,Finished,15,69,21,SÃ£o Paulo Grand Pr
+Mercedes,mercedes,George Russell,GBR,4,4,2,Finished,12,69,21,SÃ£o Paulo Grand Pr
+Ferrari,ferrari,Charles Leclerc,MON,5,5,6,Finished,10,69,21,SÃ£o Paulo Grand Pr
+McLaren,mclaren,Lando Norris,GBR,6,6,1,Finished,8,69,21,SÃ£o Paulo Grand Pr
+RB,rb,Yuki Tsunoda,JPN,7,7,3,Finished,6,69,21,SÃ£o Paulo Grand Pr
+McLaren,mclaren,Oscar Piastri,AUS,8,8,8,Finished,4,69,21,SÃ£o Paulo Grand Pr
+RB,rb,Liam Lawson,NZL,9,9,5,Finished,2,69,21,SÃ£o Paulo Grand Pr
+Mercedes,mercedes,Lewis Hamilton,GBR,10,10,14,Finished,1,69,21,SÃ£o Paulo Grand Pr
+Red Bull Racing,red_bull,Sergio Perez,MEX,11,11,12,Finished,0,69,21,SÃ£o Paulo Grand Pr
+Haas F1 Team,haas,Oliver Bearman,GBR,12,12,15,Finished,0,69,21,SÃ£o Paulo Grand Pr
+Kick Sauber,sauber,Valtteri Bottas,FIN,13,13,11,Finished,0,69,21,SÃ£o Paulo Grand Pr
+Aston Martin,aston_martin,Fernando Alonso,ESP,14,14,9,Finished,0,69,21,SÃ£o Paulo Grand Pr
+Kick Sauber,sauber,Guanyu Zhou,CHN,15,15,19,Finished,0,69,21,SÃ£o Paulo Grand Pr
+Ferrari,ferrari,Carlos Sainz,ESP,16,R,20,Retired,0,38,21,SÃ£o Paulo Grand Pr
+Williams,williams,Franco Colapinto,ARG,17,R,16,Retired,0,30,21,SÃ£o Paulo Grand Pr
+Williams,williams,Alexander Albon,THA,18,W,7,Did not start,0,0,21,SÃ£o Paulo Grand Pr
+Aston Martin,aston_martin,Lance Stroll,CAN,19,W,10,Did not start,0,0,21,SÃ£o Paulo Grand Pr
+Haas F1 Team,haas,Nico Hulkenberg,GER,20,D,18,Disqualified,0,0,21,SÃ£o Paulo Grand Pr

@@ -1,0 +1,680 @@
+{
+    "Max Verstappen": {
+        "total_score": 131,
+        "count": 14,
+        "comments": [
+            {
+                "user": "Eldhon",
+                "rating": 10,
+                "text": "Still the king despite the car issues.",
+                "date": "2025-12-24"
+            },
+            {
+                "user": "OrangeArmy",
+                "rating": 9,
+                "text": "Fighting hard for that 5th title!",
+                "date": "2025-12-31"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 10,
+                "text": "Unstoppable force.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "SpeedDemon",
+                "rating": 8,
+                "text": "Aggressive as always.",
+                "date": "2026-01-05"
+            },
+            {
+                "user": "ELdon",
+                "rating": 10,
+                "text": "Good",
+                "date": "2026-01-14 09:49:27"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 9,
+                "text": "No comment",
+                "date": "2026-01-14 10:56:06"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 9,
+                "text": "No comment",
+                "date": "2026-01-14 10:56:07"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 9,
+                "text": "No comment",
+                "date": "2026-01-14 10:56:07"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 9,
+                "text": "No comment",
+                "date": "2026-01-14 10:56:07"
+            }
+        ]
+    },
+    "Lando Norris": {
+        "total_score": 150,
+        "count": 17,
+        "comments": [
+            {
+                "user": "PapayaFan",
+                "rating": 10,
+                "text": "WORLD CHAMPION MATERIAL!",
+                "date": "2025-12-24"
+            },
+            {
+                "user": "Hater",
+                "rating": 5,
+                "text": "Car is fast, driver is okay.",
+                "date": "2025-12-24"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 9,
+                "text": "Consistent and fast.",
+                "date": "2026-01-05"
+            },
+            {
+                "user": "BritRacer",
+                "rating": 10,
+                "text": "Finally brought it home for McLaren.",
+                "date": "2026-01-08"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 10,
+                "text": "No comment",
+                "date": "2026-01-13"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 7,
+                "text": "great",
+                "date": "2026-01-14 03:59:38"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 9,
+                "text": "No comment",
+                "date": "2026-01-14 10:56:22"
+            }
+        ]
+    },
+    "Oscar Piastri": {
+        "total_score": 98,
+        "count": 11,
+        "comments": [
+            {
+                "user": "AussieStig",
+                "rating": 10,
+                "text": "Future WDC for sure. So calm.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "PastryChef",
+                "rating": 9,
+                "text": "Cold as ice \ud83e\udd76",
+                "date": "2026-01-04"
+            },
+            {
+                "user": "McLarenFan",
+                "rating": 8,
+                "text": "Faster than Lando on his day.",
+                "date": "2026-01-09"
+            }
+        ]
+    },
+    "Charles Leclerc": {
+        "total_score": 88,
+        "count": 10,
+        "comments": [
+            {
+                "user": "Tifosi4Life",
+                "rating": 10,
+                "text": "Il Predestinato!",
+                "date": "2025-12-28"
+            },
+            {
+                "user": "FerrariPain",
+                "rating": 8,
+                "text": "Qualifying god, race luck bad.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "MonacoPrince",
+                "rating": 9,
+                "text": "Beating Lewis at Ferrari isn't easy, good job.",
+                "date": "2026-01-06"
+            }
+        ]
+    },
+    "Lewis Hamilton": {
+        "total_score": 90,
+        "count": 11,
+        "comments": [
+            {
+                "user": "TeamLH",
+                "rating": 10,
+                "text": "Still rising in Red!",
+                "date": "2025-12-24"
+            },
+            {
+                "user": "Critic001",
+                "rating": 6,
+                "text": "Struggling to adapt to the Ferrari.",
+                "date": "2026-01-03"
+            },
+            {
+                "user": "GoatLife",
+                "rating": 9,
+                "text": "8th title is coming.",
+                "date": "2026-01-09"
+            },
+            {
+                "user": "Eldhon",
+                "rating": 10,
+                "text": "Best",
+                "date": "2026-01-14 08:15:22"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 5,
+                "text": "No comment",
+                "date": "2026-01-14 10:56:14"
+            }
+        ]
+    },
+    "George Russell": {
+        "total_score": 60,
+        "count": 8,
+        "comments": [
+            {
+                "user": "MercBoy",
+                "rating": 8,
+                "text": "Solid season leader for Mercedes.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "FactsOnly",
+                "rating": 7,
+                "text": "Consistent but needs more wins.",
+                "date": "2026-01-05"
+            }
+        ]
+    },
+    "Kimi Antonelli": {
+        "total_score": 55,
+        "count": 7,
+        "comments": [
+            {
+                "user": "PizzaLover",
+                "rating": 9,
+                "text": "Rookie of the year! \ud83c\uddee\ud83c\uddf9",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "SafetyCar",
+                "rating": 6,
+                "text": "Fast but crashes too much.",
+                "date": "2026-01-04"
+            },
+            {
+                "user": "TotoWolf",
+                "rating": 10,
+                "text": "The prodigy.",
+                "date": "2026-01-08"
+            }
+        ]
+    },
+    "Carlos Sainz": {
+        "total_score": 72,
+        "count": 8,
+        "comments": [
+            {
+                "user": "SmoothOp",
+                "rating": 10,
+                "text": "Taking Williams back to the top!",
+                "date": "2025-12-30"
+            },
+            {
+                "user": "Chili55",
+                "rating": 9,
+                "text": "Most underrated driver on the grid.",
+                "date": "2026-01-05"
+            }
+        ]
+    },
+    "Alexander Albon": {
+        "total_score": 68,
+        "count": 8,
+        "comments": [
+            {
+                "user": "WilliamsFan",
+                "rating": 9,
+                "text": "Carrying the team for years.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "ThaiFan",
+                "rating": 8,
+                "text": "Great qualifying pace.",
+                "date": "2026-01-07"
+            }
+        ]
+    },
+    "Fernando Alonso": {
+        "total_score": 80,
+        "count": 9,
+        "comments": [
+            {
+                "user": "ElPlan",
+                "rating": 10,
+                "text": "Age is just a number.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "AMR_Fan",
+                "rating": 8,
+                "text": "Still quicker than Stroll.",
+                "date": "2026-01-06"
+            }
+        ]
+    },
+    "Lance Stroll": {
+        "total_score": 30,
+        "count": 6,
+        "comments": [
+            {
+                "user": "DaddyCash",
+                "rating": 4,
+                "text": "Decent in rain, bad in dry.",
+                "date": "2026-01-03"
+            },
+            {
+                "user": "MontrealF1",
+                "rating": 6,
+                "text": "Home race was okay.",
+                "date": "2026-01-08"
+            }
+        ]
+    },
+    "Yuki Tsunoda": {
+        "total_score": 65,
+        "count": 8,
+        "comments": [
+            {
+                "user": "RedBullJpn",
+                "rating": 9,
+                "text": "Finally in the main Red Bull seat!",
+                "date": "2025-12-29"
+            },
+            {
+                "user": "RadioYuki",
+                "rating": 8,
+                "text": "Calmer on the radio this year.",
+                "date": "2026-01-04"
+            }
+        ]
+    },
+    "Liam Lawson": {
+        "total_score": 50,
+        "count": 6,
+        "comments": [
+            {
+                "user": "KiwiPower",
+                "rating": 9,
+                "text": "Should have been in the RB seat sooner.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "RBFan",
+                "rating": 7,
+                "text": "Solid rookie season.",
+                "date": "2026-01-06"
+            }
+        ]
+    },
+    "Isack Hadjar": {
+        "total_score": 40,
+        "count": 5,
+        "comments": [
+            {
+                "user": "FrenchGP",
+                "rating": 8,
+                "text": "Very aggressive driving style.",
+                "date": "2026-01-05"
+            },
+            {
+                "user": "MarkoFan",
+                "rating": 7,
+                "text": "Needs to stop crashing.",
+                "date": "2026-01-09"
+            }
+        ]
+    },
+    "Nico H\u00fclkenberg": {
+        "total_score": 58,
+        "count": 7,
+        "comments": [
+            {
+                "user": "HulkSmash",
+                "rating": 9,
+                "text": "Mr. Consistency for Audi/Sauber.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "PodiumPls",
+                "rating": 7,
+                "text": "Still waiting for that podium...",
+                "date": "2026-01-07"
+            }
+        ]
+    },
+    "Gabriel Bortoleto": {
+        "total_score": 45,
+        "count": 6,
+        "comments": [
+            {
+                "user": "BrazilF1",
+                "rating": 8,
+                "text": "Bringing the Senna spirit back!",
+                "date": "2026-01-03"
+            },
+            {
+                "user": "F2Watcher",
+                "rating": 7,
+                "text": "Good adaptation to F1.",
+                "date": "2026-01-08"
+            }
+        ]
+    },
+    "Pierre Gasly": {
+        "total_score": 52,
+        "count": 7,
+        "comments": [
+            {
+                "user": "AlpinePain",
+                "rating": 7,
+                "text": "Deserves a better car.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "LikedByPierre",
+                "rating": 8,
+                "text": "Solid points finishes.",
+                "date": "2026-01-06"
+            }
+        ]
+    },
+    "Franco Colapinto": {
+        "total_score": 72,
+        "count": 11,
+        "comments": [
+            {
+                "user": "ArgentinaF1",
+                "rating": 9,
+                "text": "Vamos Franco! Huge potential.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "WilliamsAlum",
+                "rating": 7,
+                "text": "Good move to Alpine.",
+                "date": "2026-01-05"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 10,
+                "text": "Really dissappointing",
+                "date": "2026-01-13"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 1,
+                "text": "Really bad",
+                "date": "2026-01-13"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 10,
+                "text": "No comment",
+                "date": "2026-01-14 08:44:39"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 1,
+                "text": "No comment",
+                "date": "2026-01-14 08:44:58"
+            },
+            {
+                "user": "Anonymous Fan",
+                "rating": 2,
+                "text": "No comment",
+                "date": "2026-01-14 11:37:28"
+            }
+        ]
+    },
+    "Esteban Ocon": {
+        "total_score": 42,
+        "count": 6,
+        "comments": [
+            {
+                "user": "OconArmy",
+                "rating": 8,
+                "text": "Haas suits him better than Alpine.",
+                "date": "2026-01-03"
+            },
+            {
+                "user": "PenaltyKing",
+                "rating": 5,
+                "text": "Too many penalties.",
+                "date": "2026-01-07"
+            }
+        ]
+    },
+    "Oliver Bearman": {
+        "total_score": 50,
+        "count": 6,
+        "comments": [
+            {
+                "user": "BearForce1",
+                "rating": 9,
+                "text": "Future Ferrari star.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "HaasHope",
+                "rating": 7,
+                "text": "Learning quickly.",
+                "date": "2026-01-08"
+            }
+        ]
+    },
+    "McLaren": {
+        "total_score": 95,
+        "count": 10,
+        "comments": [
+            {
+                "user": "PapayaRules",
+                "rating": 10,
+                "text": "Best car on the grid 2025!",
+                "date": "2025-12-31"
+            },
+            {
+                "user": "ZakBrown",
+                "rating": 9,
+                "text": "What a turnaround.",
+                "date": "2026-01-05"
+            }
+        ]
+    },
+    "Red Bull Racing": {
+        "total_score": 82,
+        "count": 9,
+        "comments": [
+            {
+                "user": "MaxFan",
+                "rating": 10,
+                "text": "Still the team to beat.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "ChecoOut",
+                "rating": 8,
+                "text": "Good choice promoting Yuki.",
+                "date": "2026-01-04"
+            }
+        ]
+    },
+    "Ferrari": {
+        "total_score": 88,
+        "count": 10,
+        "comments": [
+            {
+                "user": "ForzaFerrari",
+                "rating": 9,
+                "text": "Lewis + Charles = Dream Team.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "Strategist",
+                "rating": 8,
+                "text": "Strategy is improving.",
+                "date": "2026-01-07"
+            }
+        ]
+    },
+    "Mercedes": {
+        "total_score": 78,
+        "count": 8,
+        "comments": [
+            {
+                "user": "SilverArrow",
+                "rating": 9,
+                "text": "Kimi is impressive.",
+                "date": "2026-01-03"
+            },
+            {
+                "user": "TotoFan",
+                "rating": 8,
+                "text": "Solid P3 in constructors.",
+                "date": "2026-01-08"
+            }
+        ]
+    },
+    "Aston Martin": {
+        "total_score": 60,
+        "count": 7,
+        "comments": [
+            {
+                "user": "GreenMachine",
+                "rating": 8,
+                "text": "Newey effect kicking in?",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "StrollOut",
+                "rating": 6,
+                "text": "One driver team.",
+                "date": "2026-01-06"
+            }
+        ]
+    },
+    "Williams": {
+        "total_score": 70,
+        "count": 8,
+        "comments": [
+            {
+                "user": "VowlesFan",
+                "rating": 10,
+                "text": "Best lineup in the midfield!",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "Heritage",
+                "rating": 9,
+                "text": "Back to where they belong.",
+                "date": "2026-01-05"
+            }
+        ]
+    },
+    "Alpine": {
+        "total_score": 50,
+        "count": 7,
+        "comments": [
+            {
+                "user": "FrenchConnection",
+                "rating": 7,
+                "text": "Better stability now.",
+                "date": "2026-01-03"
+            },
+            {
+                "user": "Enstone",
+                "rating": 6,
+                "text": "Need more engine power.",
+                "date": "2026-01-08"
+            }
+        ]
+    },
+    "Racing Bulls": {
+        "total_score": 55,
+        "count": 6,
+        "comments": [
+            {
+                "user": "DannyRicFan",
+                "rating": 8,
+                "text": "Young blood looking good.",
+                "date": "2026-01-04"
+            },
+            {
+                "user": "VCARB",
+                "rating": 7,
+                "text": "Solid midfield contenders.",
+                "date": "2026-01-07"
+            }
+        ]
+    },
+    "Haas F1 Team": {
+        "total_score": 48,
+        "count": 6,
+        "comments": [
+            {
+                "user": "SteinerShip",
+                "rating": 8,
+                "text": "Bearman is a gem.",
+                "date": "2026-01-02"
+            },
+            {
+                "user": "GeneHaas",
+                "rating": 7,
+                "text": "Good points haul this year.",
+                "date": "2026-01-06"
+            }
+        ]
+    },
+    "Kick Sauber": {
+        "total_score": 45,
+        "count": 6,
+        "comments": [
+            {
+                "user": "AudiWait",
+                "rating": 7,
+                "text": "Waiting for 2026 Audi entry.",
+                "date": "2026-01-01"
+            },
+            {
+                "user": "BortoletoFan",
+                "rating": 8,
+                "text": "Gabriel showing promise.",
+                "date": "2026-01-05"
+            }
+        ]
+    }
+}

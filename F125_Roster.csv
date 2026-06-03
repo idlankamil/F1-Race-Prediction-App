@@ -1,0 +1,44 @@
+#,No.,Abbr,Full_Name,Team,Nationality,Age,F1_Debut,World_Champs,Race_Starts,Wins,Podiums,Poles,F1_Retired
+1,4,NOR,Lando Norris,McLaren,British,26,2019,1,152,11,44,16,Active
+2,1,VER,Max Verstappen,Red Bull,Dutch,28,2015,4,233,71,127,48,Active
+3,81,PIA,Oscar Piastri,McLaren,Australian,24,2023,0,70,9,26,6,Active
+4,63,RUS,George Russell,Mercedes,British,27,2019,0,152,5,24,7,Active
+5,16,LEC,Charles Leclerc,Ferrari,Monégasque,28,2018,0,171,8,50,27,Active
+6,44,HAM,Lewis Hamilton,Ferrari,British,40,2007,7,380,105,202,104,Active
+7,12,ANT,Kimi Antonelli,Mercedes,Italian,19,2025,0,24,0,3,0,Active
+8,23,ALB,Alex Albon,Williams,Thai,29,2019,0,128,0,2,0,Active
+9,55,SAI,Carlos Sainz,Williams,Spanish,31,2015,0,230,4,29,6,Active
+10,14,ALO,Fernando Alonso,Aston Martin,Spanish,44,2001,2,427,32,106,22,Active
+11,27,HUL,Nico Hülkenberg,Kick Sauber,German,38,2010,0,251,0,1,1,Active
+12,22,TSU,Yuki Tsunoda,Red Bull,Japanese,25,2021,0,114,0,0,0,Active
+13,6,HAD,Isack Hadjar,Racing Bulls,French,21,2025,0,24,0,1,0,Active
+14,87,BEA,Oliver Bearman,Haas,British,20,2024,0,27,0,0,0,Active
+15,30,LAW,Liam Lawson,Racing Bulls,Kiwi,23,2023,0,35,0,0,0,Active
+16,31,OCO,Esteban Ocon,Haas,French,29,2016,0,158,1,4,0,Active
+17,18,STR,Lance Stroll,Aston Martin,Canadian,27,2017,0,190,0,3,1,Active
+18,10,GAS,Pierre Gasly,Alpine,French,29,2017,0,172,1,4,0,Active
+19,5,BOR,Gabriel Bortoleto,Kick Sauber,Brazilian,21,2025,0,24,0,0,0,Active
+20,43,COL,Franco Colapinto,Alpine,Argentine,22,2024,0,26,0,0,0,Active
+21,5,MSC,Michael Schumacher,Ferrari,German,56,1991,7,308,91,155,68,2012
+22,1,VET,Sebastian Vettel,Red Bull,German,38,2007,4,299,53,122,57,2022
+23,7,RAI,Kimi Räikkönen,Ferrari,Finnish,45,2001,1,349,21,103,18,2021
+24,9,ROS,Nico Rosberg,Mercedes,German,40,2006,1,206,23,57,30,2016
+25,6,HAK,Mika Häkkinen,McLaren,Finnish,56,1991,2,165,20,51,26,2001
+26,12,MON,Juan Pablo Montoya,Williams,Colombian,49,2001,0,94,7,30,13,2006
+27,19,MAS,Felipe Massa,Ferrari,Brazilian,44,2002,0,269,11,41,16,2017
+28,2,BAR,Rubens Barrichello,Ferrari,Brazilian,52,1993,0,322,11,68,14,2011
+29,8,COU,David Coulthard,McLaren,British,54,1994,0,246,13,62,12,2008
+30,11,VIL,Jacques Villeneuve,Williams,Canadian,54,1996,1,163,11,23,13,2006
+31,3,RIC,Daniel Ricciardo,Red Bull,Australian,36,2011,0,257,8,32,3,2024
+32,21,WEB,Mark Webber,Red Bull,Australian,48,2002,0,215,9,42,13,2013
+33,20,MAG,Kevin Magnussen,Haas,Danish,33,2014,0,185,0,1,1,2024
+34,12,SEN,Ayrton Senna,McLaren,Brazilian,64,1984,3,161,41,80,65,1994
+35,1,LAU,Niki Lauda,Ferrari,Austrian,76,1971,3,177,25,54,24,1985
+36,6,PRO,Alain Prost,McLaren,French,70,1980,4,199,51,106,33,1993
+37,5,MAN,Nigel Mansell,Williams,British,71,1980,1,191,31,59,32,1995
+38,2,HIL,Damon Hill,Williams,British,64,1992,1,115,22,42,20,1999
+39,3,STE,Jackie Stewart,Tyrrell,British,86,1965,3,99,27,43,17,1973
+40,8,PIQ,Nelson Piquet,Brabham,Brazilian,72,1978,3,204,23,60,24,1991
+41,11,ASC,Alberto Ascari,Ferrari,Italian,106,1950,2,32,13,17,14,1955
+42,4,HUN,James Hunt,McLaren,British,78,1973,1,92,10,23,14,1979
+43,10,FIT,Emerson Fittipaldi,Lotus,Brazilian,78,1970,2,144,14,35,6,1980

@@ -1,0 +1,21 @@
+﻿#,No.,Abbr,Full_Name,Team,Nationality,Age,F1_Debut,World_Champs,Race_Starts,Wins,Podiums,Poles
+1,4,NOR,Lando Norris,McLaren,British,26,2019,1,152,11,44,16
+2,1,VER,Max Verstappen,Red Bull,Dutch,28,2015,4,233,71,127,48
+3,81,PIA,Oscar Piastri,McLaren,Australian,24,2023,0,70,9,26,6
+4,63,RUS,George Russell,Mercedes,British,27,2019,0,152,5,24,7
+5,16,LEC,Charles Leclerc,Ferrari,Monégasque,28,2018,0,171,8,50,27
+6,44,HAM,Lewis Hamilton,Ferrari,British,40,2007,7,380,105,202,104
+7,12,ANT,Kimi Antonelli,Mercedes,Italian,19,2025,0,24,0,3,0
+8,23,ALB,Alex Albon,Williams,Thai,29,2019,0,128,0,2,0
+9,55,SAI,Carlos Sainz,Williams,Spanish,31,2015,0,230,4,29,6
+10,14,ALO,Fernando Alonso,Aston Martin,Spanish,44,2001,2,427,32,106,22
+11,27,HUL,Nico Hülkenberg,Kick Sauber,German,38,2010,0,251,0,1,1
+12,22,TSU,Yuki Tsunoda,Red Bull,Japanese,25,2021,0,114,0,0,0
+13,6,HAD,Isack Hadjar,Racing Bulls,French,21,2025,0,24,0,1,0
+14,87,BEA,Oliver Bearman,Haas,British,20,2024,0,27,0,0,0
+15,30,LAW,Liam Lawson,Racing Bulls,Kiwi,23,2023,0,35,0,0,0
+16,31,OCO,Esteban Ocon,Haas,French,29,2016,0,158,1,4,0
+17,18,STR,Lance Stroll,Aston Martin,Canadian,27,2017,0,190,0,3,1
+18,10,GAS,Pierre Gasly,Alpine,French,29,2017,0,172,1,4,0
+19,5,BOR,Gabriel Bortoleto,Kick Sauber,Brazilian,21,2025,0,24,0,0,0
+20,43,COL,Franco Colapinto,Alpine,Argentine,22,2024,0,26,0,0,0
